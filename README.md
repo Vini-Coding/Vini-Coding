@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vini-Coding
 - 👀 I’m interested in coding and technology.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Flutter and dev. mobile.
 - 💞️ I’m looking to develop my projects
 
 <!---
