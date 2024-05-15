@@ -5,9 +5,6 @@
 
 <div>
   <a>
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=Vini-Coding&show_icons=true&hide=contribs,prs&count_private=true&theme=tokyonight"> 
-  </a>
-  <a>
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-Coding&theme=tokyonight&layout=compact"> 
   </a>
     <img height=80 width=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
