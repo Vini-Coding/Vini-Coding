@@ -4,9 +4,6 @@
 - 📘 I'm learning about Flutter Development, User Experience and Interface Design and Branding.
 
 <div>
-  <a>
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-Coding&theme=tokyonight&layout=compact"> 
-  </a>
     <img height=80 width=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img height=80 width=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
